@@ -7,7 +7,7 @@ For this project, the following question was explored with respect to the local 
 
 Through the use of Jupyter Notebook, data found on the Australia Open Data Network (AODN) was gathered, analyzed, and plotted (See Plots PDF). A total of 5 plots were made, average Tempurature/Salinity/Turbidity vs. Time & average Turbidity vs. Temperature/Salinity. There was no apparent correlation for temperature vs. time, although some slight upward trend is noticable if examined closely. This may be due to the change in seasons causing the temperature to fluctuate wildly over the scale and it is likely that if the seasons were separated, there could be some amount of correlation. For salinity over time, there is some correlation with a distinct upward trend and with turbidity, there is also some amount of correlation, however the upward trend has less strength. When examining the final two plots (Turb. vs. Temp. & Salinity) there is no apparent trend that indicates any proportional relationship.
 
-To download the data used here, use AODN (linked below) and the following steps:
+To download the data used here, directly download it from the repository or use AODN (linked below) and the following steps:
 -Click "Get Ocean Data Now".
 -In the "Keyword" search criteria type CTD followed by the enter key.
 -Find "IMOS - Australian National Mooring Network (ANMN) - CTD Profiles" and click "Select".
