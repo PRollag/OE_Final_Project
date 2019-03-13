@@ -19,5 +19,4 @@ To download the data used here, use AODN (linked below) and the following steps:
 
 To use the code, place Final_Project.ipynb & "IMOS_-_Australian_National_Mooring_Network_(ANMN)_-_CTD_Profiles.csv" into the same folder. Open Final_Project.ipynb in Jupyter Notebook and click run, it should then automatically populate the 5 plots.
 
-Links:
-AODN: https://portal.aodn.org.au/
+Link to AODN: https://portal.aodn.org.au/
