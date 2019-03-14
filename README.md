@@ -13,5 +13,5 @@ Links:
 
 AODN: https://portal.aodn.org.au/
 
-File Location on AODN: https://portal.aodn.org.au/search?uuid=7b901002-b1dc-46c3-89f2-b4951cedca48
+Instrument location on AODN: https://portal.aodn.org.au/search?uuid=7b901002-b1dc-46c3-89f2-b4951cedca48
 
